@@ -16,4 +16,6 @@ The content mainly originates from the following sources:
 ## Content Structure
 
 - [Word Embeddings](./00_Word%20Embeddings.pdf)
-- [Recommender System Introduction](./01_Recommender%20System%20Introduction.pdf)
+- [Recommender System Overview](./01_Recommender%20System%20Overview.pdf)
+- [Recommender System Workflow](./02_Recommender%20System%20Workflow.pdf)
+- [Recommender System AB Test](./03_Recommender%20System%20AB%20Test.pdf)

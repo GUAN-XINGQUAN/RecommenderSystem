@@ -19,3 +19,6 @@ The content mainly originates from the following sources:
 - [Recommender System Overview](./01_Recommender%20System%20Overview.pdf)
 - [Recommender System Workflow](./02_Recommender%20System%20Workflow.pdf)
 - [Recommender System AB Test](./03_Recommender%20System%20AB%20Test.pdf)
+- [Recommender System Retrieval Item CF](./04_Recommender%20System%20Retrieveal%20Item%20CF.pdf)
+- [Recommender System Retrieval Swing](./05_Recommender%20Sysrem%20Retrieval%20Swing.pdf)
+- [Recommender System Retrieval User CF](./06_Recommender%20System%20Retrieval%20User%20CF.pdf)

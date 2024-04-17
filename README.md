@@ -22,3 +22,5 @@ The content mainly originates from the following sources:
 - [Recommender System Retrieval Item CF](./04_Recommender%20System%20Retrieveal%20Item%20CF.pdf)
 - [Recommender System Retrieval Swing](./05_Recommender%20Sysrem%20Retrieval%20Swing.pdf)
 - [Recommender System Retrieval User CF](./06_Recommender%20System%20Retrieval%20User%20CF.pdf)
+- [Categorical Feature Handling](/07_Categorical%20Features.pdf)
+- [Matrix Completion](./08_Matrix%20Completion.pdf)

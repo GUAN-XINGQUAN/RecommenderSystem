@@ -24,3 +24,6 @@ The content mainly originates from the following sources:
 - [Recommender System Retrieval User CF](./06_Recommender%20System%20Retrieval%20User%20CF.pdf)
 - [Categorical Feature Handling](/07_Categorical%20Features.pdf)
 - [Matrix Completion](./08_Matrix%20Completion.pdf)
+- [Two Tower Model Overview](./09_Two%20Tower%20Model.pdf)
+- [Two Tower Model Negative Sample](./10_Two%20Tower%20Model%20Positive%20Negative%20Samples.pdf)
+- [Two Tower Model Online Retrieval and Maintainence](./11_Two%20Tower%20Model%20Online%20Retrieval.pdf)

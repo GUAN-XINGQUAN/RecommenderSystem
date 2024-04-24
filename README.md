@@ -28,3 +28,6 @@ The content mainly originates from the following sources:
 - [Two Tower Model Negative Sample](./10_Two%20Tower%20Model%20Positive%20Negative%20Samples.pdf)
 - [Two Tower Model Online Retrieval and Maintainence](./11_Two%20Tower%20Model%20Online%20Retrieval.pdf)
 - [Two Tower Model with Self Supervision Learning](./12_Two%20Tower%20Model%20Self%20Supervision.pdf)
+- [Deep Retrieval](./13_Deep%20Retrieval.pdf)
+- [Other Retrieval Approaches](./14_Other%20Retrieval.pdf)
+- [Exposure and Filter](./15_Exposure%20and%20Filter.pdf)

@@ -31,3 +31,6 @@ The content mainly originates from the following sources:
 - [Deep Retrieval](./13_Deep%20Retrieval.pdf)
 - [Other Retrieval Approaches](./14_Other%20Retrieval.pdf)
 - [Exposure and Filter](./15_Exposure%20and%20Filter.pdf)
+- [Multi-Object Ranking Model](./16_Multi-Objective%20Ranking%20Model.pdf)
+- [Multi-Gate Mixture of Expert](./17_MMoE.pdf)
+- [Ranking Score Fusion](./18_Rank%20Score%20Combination.pdf)

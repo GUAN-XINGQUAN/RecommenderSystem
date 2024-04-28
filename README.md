@@ -34,3 +34,4 @@ The content mainly originates from the following sources:
 - [Multi-Object Ranking Model](./16_Multi-Objective%20Ranking%20Model.pdf)
 - [Multi-Gate Mixture of Expert](./17_MMoE.pdf)
 - [Ranking Score Fusion](./18_Rank%20Score%20Combination.pdf)
+- [Video Playing Modeling](./19_Video%20Playing%20Model.pdf)

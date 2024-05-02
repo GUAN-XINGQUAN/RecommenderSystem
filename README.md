@@ -35,3 +35,5 @@ The content mainly originates from the following sources:
 - [Multi-Gate Mixture of Expert](./17_MMoE.pdf)
 - [Ranking Score Fusion](./18_Rank%20Score%20Combination.pdf)
 - [Video Playing Modeling](./19_Video%20Playing%20Model.pdf)
+- [Ranking Model Feature Overview](./20_Rank%20Model%20Features.pdf)
+- [Pre-Ranking Model](./21_Pre-rank%20Model.pdf)

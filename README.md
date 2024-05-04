@@ -37,3 +37,4 @@ The content mainly originates from the following sources:
 - [Video Playing Modeling](./19_Video%20Playing%20Model.pdf)
 - [Ranking Model Feature Overview](./20_Rank%20Model%20Features.pdf)
 - [Pre-Ranking Model](./21_Pre-rank%20Model.pdf)
+- [Factorized Machine](./22_Factorized%20Machine.pdf)
